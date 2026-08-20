@@ -12,7 +12,7 @@
         <li>📱 Currently building <b>CaloriCa</b>, an AI-powered (Gemini API) calorie and macro tracking mobile application.</li>
         <li>💻 Passionate about designing robust backend systems and developing modern mobile interfaces.</li>
         <li>🕹️ In my free time, I enjoy developing 2D game mechanics in Unity and playing competitive e-sports.</li>
-        <li>📫 How to reach me: <b><a href="mailto:eren.agca4@gmail.com">eren.agca4@gmail.com</a></b></li>
+        <li>📫 How to reach me: <b><a href="mailto:your-email@gmail.com">your-email@gmail.com</a></b></li>
       </ul>
     </td>
     <td width="40%" align="center">
@@ -33,11 +33,17 @@
 
 <h3>📈 GitHub Stats & Activity</h3>
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eren-agca&theme=dracula&hide_border=true" alt="Eren's GitHub Streak" />
+  <a href="https://github.com/eren-agca">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=eren-agca&theme=dracula&hide_border=true" alt="Eren's GitHub Streak" />
+  </a>
 </p>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=eren-agca&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eren-agca&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" width="48%" />
+  <a href="https://github.com/eren-agca">
+    <img src="https://github-readme-stats.vercel.app/api?username=eren-agca&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/eren-agca">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eren-agca&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  </a>
 </p>
 
 <h3>🔗 Get In Touch</h3>
