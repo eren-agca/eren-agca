@@ -32,19 +32,19 @@
 </p>
 
 <h3>📈 GitHub Stats & Activity</h3>
-<p align="left">
-  <!-- Daha stabil çalışan Streak (Seri) sunucusu -->
+
+<p align="center">
   <a href="https://github.com/eren-agca">
-    <img src="https://streak-stats.demolab.com/?user=eren-agca&theme=dracula&hide_border=true" alt="Eren's GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=eren-agca&theme=dracula&hide_border=true" alt="Eren's GitHub Streak" height="195" />
+  </a>
+  <a href="https://github.com/eren-agca">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eren-agca&theme=dracula" alt="Top Languages" height="195" />
   </a>
 </p>
-<p align="left">
-  <!-- Alternatif ve şık profil özet kartları -->
+
+<p align="center">
   <a href="https://github.com/eren-agca">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eren-agca&theme=dracula" alt="Profile Details" width="48%" />
-  </a>
-  <a href="https://github.com/eren-agca">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eren-agca&theme=dracula" alt="Top Languages" width="48%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eren-agca&theme=dracula" alt="Profile Details" />
   </a>
 </p>
 
