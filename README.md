@@ -4,21 +4,19 @@
 <br/>
 
 <table border="0">
-  <tr>
-    <td width="60%">
-      <h3>🚀 About Me</h3>
-      <ul>
-        <li>🎓 Graduated as the <b>top student (1st place)</b> in Computer Programming, both in my department and university-wide.</li>
-        <li>📱 Currently building <b>CaloriCa</b>, an AI-powered (Gemini API) calorie and macro tracking mobile application.</li>
-        <li>💻 Passionate about designing robust backend systems and developing modern mobile interfaces.</li>
-        <li>🕹️ In my free time, I enjoy vibecoding and developing 2D game mechanics in Unity.</li>
-        <li>📫 How to reach me: <b><a href="mailto:eren.agca4@gmail.com">eren.agca4@gmail.com</a></b></li>
-      </ul>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding Aesthetic GIF" width="100%"/>
-    </td>
-  </tr>
+  <div>
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding Aesthetic GIF" width="35%" align="right" />
+  
+  <h3>🚀 About Me</h3>
+  <ul>
+    <li>🎓 Graduated as the <b>top student (1st place)</b> in Computer Programming, both in my department and university-wide.</li>
+    <li>📱 Currently building <b>CaloriCa</b>, an AI-powered (Gemini API) calorie and macro tracking mobile application.</li>
+    <li>💻 Passionate about designing robust backend systems and developing modern mobile interfaces.</li>
+    <li>🕹️ In my free time, I enjoy vibecoding, developing 2D game mechanics in Unity, and playing competitive e-sports.</li>
+    <li>📫 How to reach me: <b><a href="mailto:your-email@gmail.com">your-email@gmail.com</a></b></li>
+  </ul>
+</div>
+<br clear="both"/>
 </table>
 
 <h3>🛠️ Languages and Tools</h3>
