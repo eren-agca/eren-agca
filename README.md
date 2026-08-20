@@ -3,7 +3,7 @@
 
 <br/>
 
-<table>
+<table stlye="border:0;">
   <tr>
     <td width="60%">
       <h3>🚀 About Me</h3>
@@ -11,7 +11,7 @@
         <li>🎓 Graduated as the <b>top student (1st place)</b> in Computer Programming, both in my department and university-wide.</li>
         <li>📱 Currently building <b>CaloriCa</b>, an AI-powered (Gemini API) calorie and macro tracking mobile application.</li>
         <li>💻 Passionate about designing robust backend systems and developing modern mobile interfaces.</li>
-        <li>🕹️ In my free time, I enjoy developing 2D game mechanics in Unity.</li>
+        <li>🕹️ In my free time, I enjoy vibecoding and developing 2D game mechanics in Unity.</li>
         <li>📫 How to reach me: <b><a href="mailto:eren.agca4@gmail.com">eren.agca4@gmail.com</a></b></li>
       </ul>
     </td>
