@@ -3,7 +3,7 @@
 
 <br/>
 
-<table stlye="border:0;">
+<table border="0">
   <tr>
     <td width="60%">
       <h3>🚀 About Me</h3>
