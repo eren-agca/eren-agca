@@ -35,7 +35,7 @@
 
 <p align="center">
   <a href="https://github.com/eren-agca">
-    <img src="https://streak-stats.demolab.com/?user=eren-agca&theme=dracula&hide_border=true&v=1" alt="Eren's GitHub Streak" height="195" />
+    <img src="https://streak-stats.demolab.com/?user=eren-agca&theme=dracula&hide_border=true" alt="Eren's GitHub Streak" height="195" />
   </a>
   <a href="https://github.com/eren-agca">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eren-agca&theme=dracula&v=1" alt="Top Languages" height="195" />
