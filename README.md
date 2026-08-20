@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm İsmail Eren Ağca</h1>
+<h1 align="center">Hi 👋, I'm Eren</h1>
 <h3 align="center">Mobile & Backend Developer</h3>
 
 <br/>
