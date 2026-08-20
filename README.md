@@ -21,7 +21,6 @@
 ### 🚀 Öne Çıkan Projelerim ve Deneyimlerim
 
 *   **CaloriCa:** Gemini API entegrasyonu kullanılarak geliştirilmiş, kullanıcının yüklediği görselden yemek türünü ve makro değerlerini analiz eden mobil uygulama.
-*   **Web ve Backend Geliştirme:** ASP.NET kullanarak ziyaretçi IP takibi yapabilen sistemler ve SMTP destekli CAPTCHA doğrulama modülleri.
 *   **Oyun Geliştirme:** Unity ve C# scriptleri ile mekanikleri, çarpışma kontrolleri ve kullanıcı arayüzü kurgulanmış 2D mobil oyun projeleri.
 
 ---
