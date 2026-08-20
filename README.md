@@ -31,6 +31,8 @@
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
 </p>
 
+<hr>
+
 <h3>📈 GitHub Stats & Activity</h3>
 
 <p align="center">
@@ -47,6 +49,8 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eren-agca&theme=dracula&v=1" alt="Profile Details" />
   </a>
 </p>
+
+<hr>
 
 <h3>🔗 Get In Touch</h3>
 <p align="left">
