@@ -12,7 +12,7 @@
         <li>📱 Currently building <b>CaloriCa</b>, an AI-powered (Gemini API) calorie and macro tracking mobile application.</li>
         <li>💻 Passionate about designing robust backend systems and developing modern mobile interfaces.</li>
         <li>🕹️ In my free time, I enjoy developing 2D game mechanics in Unity and playing competitive e-sports.</li>
-        <li>📫 How to reach me: <b><a href="mailto:your-email@gmail.com">your-email@gmail.com</a></b></li>
+        <li>📫 How to reach me: <b><a href="mailto:eren.agca4@gmail.com">eren.agca4@gmail.com</a></b></li>
       </ul>
     </td>
     <td width="40%" align="center">
