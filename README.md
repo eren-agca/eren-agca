@@ -5,7 +5,7 @@
 
 <table border="0">
   <div>
-  <img src="https://media1.tenor.com/m/YP1tkjvqTs8AAAAd/project-hail-mary-project-hail-mary-rocky.gif" alt="Coding Aesthetic GIF" width="35%" align="right" />
+
   
   <h3>🚀 About Me</h3>
   <ul>
